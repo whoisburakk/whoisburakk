@@ -27,3 +27,34 @@ Bir hata mı fark ettin, bir özellik mi eksik, aklında bir fikir mi var? İlgi
 ---
 
 **Daha az uğraş. Daha çok iş.**
+
+
+# whoisdev
+
+### Small tools. A smoother Windows experience. 🪟
+
+Hey, I'm **whoisdev**. I build Windows apps that make everyday tasks easier.
+
+My projects start with a simple thought: “There has to be an easier way to do this.” I turn those moments into practical tools that cut repetitive work, solve everyday problems, and help people get things done.
+
+---
+
+### 🎯 What I focus on
+
+- **Everyday needs:** Desktop apps inspired by real situations.
+- **Practical solutions:** Useful tools for small problems that keep coming up.
+- **Simple experiences:** Clear interfaces, straightforward workflows, and features with a purpose.
+
+### 🧩 Explore my projects
+
+Take a look at the Windows apps and utilities I'm building.
+
+**[Browse my projects →](https://github.com/whoisburakk?tab=repositories)**
+
+### 💬 Help shape the next update
+
+Found a bug? Missing a feature? Have an idea? Open an **Issue** in the relevant repository. Your feedback helps me make these tools more useful in everyday life.
+
+---
+
+**Less hassle. More done.**
